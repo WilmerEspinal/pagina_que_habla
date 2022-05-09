@@ -50,4 +50,9 @@ h1 {
         font-size: 3rem;
         text-align: center;
     }
+    .div-home {
+        background-image: url(./images/background_movil.jpg);
+        background-size: 100% 100%;
+        
+    }
 }
